@@ -251,6 +251,8 @@ Note: The normalised IPA is shown to demonstrate more clearly the emergent natur
 
 ## Examples
 
+***Note:*** I'm not currently sure when to use 'c' vs 'j', so simply use 'c' exclusively.
+
 All English letters:
 
 - **English:**  
