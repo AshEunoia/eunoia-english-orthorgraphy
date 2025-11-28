@@ -232,7 +232,7 @@ In normal English there are just as many sounds, depending on the dialect, but t
 
 The normal English alphabet has 48 letters, including capitals, but not including letters that have diacritics such as 'cliché'. EEO has 33 symbols, counting the primary vowels and diacritics separately, 15 less letters than normal English. Counting all combinations of vowels and diacritics, EEO still has 6 fewer letters than normal English.
 
-One might thing vowel diphthongs in EEO would overall increases the number of letters that need to be written, but given the change in spelling, over the course of a paragraph it is most likely diphthongs EEO has significantly fewer letters. This is primarily due to the quantity of redundant letters in English spelling.
+Diphthong EEO overall increases the number of letters that need to be written in comparison with normal English, mostly due to the required placeholder character. Diacritic EEO is the opposite, requiring much fewer letters and keystrokes when typing that normal English.
 
 ## Examples
 
@@ -245,7 +245,7 @@ The quick brown fox jumps over the lazy dog.
 - **EEO diacritic:**  
 δc kwik brǎn foks dεcmps čvc δc lëzî dog.
 - **EEO diphthong:**  
-Tc kwik braun foks dEcmps cuvc Tc leizii dog.
+Tc kwixk braun foxks dEcxmps cuxvcx Tcx leizii doxg.
 
 Quote from 'The Mikado' by W.S. Gilbert:
 
@@ -260,10 +260,10 @@ in a pestilenßcl prizcn, wiδ a läf-loq lok,
 awëtiq δc sensëßcn ov a ßôt, ßâp ßok,  
 from a tßîp and tßipî tßopc on a big blak blok!
 - **EEO diphthong:**  
-tuu sit in solcm sailcns in a dcl, daak dok,  
-in a pestilenBcl prizcn, wiT a laif-loq lok,  
-aweitiq Tc senseiBcn ov a Boot, Baap Bok,  
-from a tBiip and tBipii tBopc on a big blak blok!
+tuu sixt ixn soxlcxm sailcxns ixn ax dcxl, daak doxk,  
+ixn ax pexstixlexnBcxl prixzcxn, wixT ax laif-loxq loxk,  
+aweitixq Tcx sexnseiBcxn oxv ax Boot, Baap Boxk,  
+froxm ax tBiip axnd tBixpii tBoxpcx oxn ax bixg blaxk bloxk!
 
 ### Rhymes
 
@@ -272,8 +272,8 @@ from a tBiip and tBipii tBopc on a big blak blok!
 | **Misleading negative.** |               |               |
 | through                  | фrû           | Hruu          |
 | though                   | δč            | Tcu           |
-| thorough                 | фcrc          | Hcrc          |
-| trough                   | trof          | trof          |
+| thorough                 | фcrc          | Hcxrcx        |
+| trough                   | trof          | troxf         |
 | rough                    | rcf           | rcf           |
 | plough                   | plǎ           | plau          |
 | **Misleading positive.** |               |               |
@@ -287,7 +287,7 @@ from a tBiip and tBipii tBopc on a big blak blok!
 | you                      | yû            | yuu           |
 | ewe                      | yû            | yuu           |
 | shoe                     | ßû            | Buu           |
-| adieu                    | adyû          | adyuu         |
+| adieu                    | adyû          | axdyuu        |
 | view                     | vyû           | vyuu          |
 
 ### Excerpt
@@ -304,7 +304,7 @@ a konstrcktid laqgwidε (scmtämz kôld a konlaq) iz a laqgwidε hûz fcnolcdε�
 
 **EEO diphthong:**
 
-a konstrcktid laqgwidE (scmtaimz koold a konlaq) iz a laqgwidE huuz fcnolcdEii, gramc, and vcukabuulerii, insted ov haviq dcvelcpt natuurclii, aa konBcslii dcvaizd. konstrcktid laqgwidEiz mei oolscu bii rcfuud tuu az aatifiBcl laqgwidEiz, pland laqgwidEiz oo inventid laqgwidEiz and in scm keisiz, fikBcncl laqgwidEiz. pland laqgwidEiz aa laqgwidEiz Tat hav biin pccpcsfulii dczaind. Tei aa Tc rczclt ov dclibcrct kontrculiq intcvenBcn, Tcs ov a foom ov laqgwidE planiq.
+ax koxnstrcxktixd laxqgwixdE (scmtaimz koold a konlaq) iz a laxqgwixdE huuz fcxnoxlcxdEii, graxmcx, axnd vcukaxbuulexrii, ixnstexd oxv haxvixq dcxvexlcxpt naxtuurcxlii, aa koxnBcxslii dcxvaizd. koxnstrcxktixd laxqgwixdEixz mei oolscu bii rcxfuud tuu axz aatixfixBcxl laxqgwixdEixz, plaxnd laxqgwixdEixz oo ixnvexntixd laxqgwixdEixz axnd ixn scxm keisixz, fixkBcxncxl laxqgwixdEixz. plaxnd laxqgwixdEixz aa laxqgwixdEixz Taxt haxv biin pccpcxsfuxlii dcxzaind. Tei aa Tcx rcxzcxlt oxv dcxlixbcxrcxt koxntrculixq ixntcxvexnBcxn, Tcxs oxv ax foom oxv laxqgwixdE plaxnixq.
 
 **English:**
 
@@ -312,8 +312,8 @@ There are many possible reasons to create a constructed language, such as to eas
 
 **EEO diacritic:**
 
-δê â menî posibcl rîzcnz tû krîët a konstrcktid laqgwidε, sctß az tû îz hûmcn komûnikëßcn (sî intcnaßcncl ogzilîerî laqgwidε and kčd); tû giv fikßcn ô an asčßîëtid konstrcktid setiq an adid lëc ov rîclizcm; fô ekspĉrimentëßcn in δc fîcldz ov liqgwistiks, kognitiv säcns, and maßîn lĉniq; fô âtistik krîëßcn; and fô laqgwidε gëmz. scm pîpcl mëk konstrcktid laqgwidεiz simplî bckcz δë läk dûiq it.
+δê â menî posibcl rîzcnz tû krîët a konstrcktid laqgwidε, sctß az tû îz hûmcn komûnikëßcn (sî intcnaßcncl ogzilîerî laqgwidε and kčd); tû giv fikßcn ô an asčßîëtid konstrcktid setiq an adid lëc ov rîclizcm; fô ekspcrimentëßcn in δc fîcldz ov liqgwistiks, kognitiv säcns, and maßîn lĉniq; fô âtistik krîëßcn; and fô laqgwidε gëmz. scm pîpcl mëk konstrcktid laqgwidεiz simplî bckcz δë läk dûiq it.
 
 **EEO diphthong:**
 
-Tee aa menii posibcl riizcnz tuu kriieit a konstrcktid laqgwidE, sctB az tuu iiz huumcn komuunikeiBcn (sii intcnaBcncl ogziliierii laqgwidE and kcud); tuu giv fikBcn oo an ascuBiieitid konstrcktid setiq an adid leic ov riiclizcm; foo ekspccrimenteiBcn in Tc fiicldz ov liqgwistiks, kognitiv saicns, and maBiin lccniq; foo aatistik kriieiBcn; and foo laqgwidE geimz. scm piipcl meik konstrcktid laqgwidEiz simplii bckcz Tei laik duuiq it.
+Tee aa mexnii poxsixbcxl riizcxnz tuu kriieit ax koxnstrcxktixd laxqgwixdE, scxtB axz tuu iiz huumcxn koxmuunixkeiBcxn (sii ixntcxnaxBcxncxl oxgzixliierii laxqgwixdE axnd kcud); tuu gixv fixkBcxn oo axn axscuBiieitixd koxnstrcxktixd sextixq axn axdixd leic oxv riiclixzcxm; foo exkspcxrixmenteiBcxn ixn Tcx fiicxldz oxv lixqgwixstixks, koxgnixtixv saicxns, and maxBiin lccnixq; foo aatixstixk kriieiBcxn; axnd foo laxqgwixdE geimz. scxm piipcxl meik koxnstrcxktixd laxqgwixdEixz sixmplii bcxkcxz Tei laik duuixq ixt.
