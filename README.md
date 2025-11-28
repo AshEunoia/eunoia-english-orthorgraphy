@@ -4,6 +4,8 @@
 
 *(yûnöa ingliß ôфografê)*
 
+*by Ash Eunoia*
+
 I don't like the way English is currently spelt, so here I have created a version that in my opinion is an improvement. Critique will be met with consideration since I'm not an expert!
 
 ## Trivia
