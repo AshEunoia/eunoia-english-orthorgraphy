@@ -162,63 +162,61 @@ Note: The normalised IPA is shown to demonstrate more clearly the emergent natur
 
 ## Changes to each letter
 
-| Letter       | Change, if any                                          |
-| :----------- | :------------------------------------------------------ |
-| a            | Clarified, with additions â, ä, ǎ.                      |
-| b            | _                                                       |
-| c            | Converted to vowel, with additions, ĉ, č.               |
-| d            | _                                                       |
-| e            | Clarified, with additions, e, ê, ë.                     |
-| f            | No longer part of ph or gh.                             |
-| g            | No longer part of compound.                             |
-| h            | No longer part of sh, ch, th, ph, etc.                  |
-| i            | Clarified, with additions, i, î, ī.                     |
-| j            | Converted to vowel.                                     |
-| k            | No longer part of digraph ck.                           |
-| l            | _                                                       |
-| m            | _                                                       |
-| n            | _                                                       |
-| o            | Clarified, with additions, o, ô, ö.                     |
-| p            | _                                                       |
-| q            | Converted to -ng.                                       |
-| r            | _                                                       |
-| s            | No longer part of sh, no longer interchangeable with c. |
-| t            | _                                                       |
-| u            | Clarified, with additions, u, û, ū.                     |
-| v            | _                                                       |
-| w            | _                                                       |
-| x            | Used as a placeholder EEO diphthongs.                   |
-| y            | _                                                       |
-| z            | _                                                       |
-| **New**      |                                                         |
-| ε            | j in casual.                                            |
-| ф            | th (breathy).                                           |
-| δ            | th                                                      |
-| ß            | sh                                                      |
-| **Digraphs** |                                                         |
-| sc /s/       | s                                                       |
-| sc /ʃ/       | ß or B                                                  |
-| ng /ŋ/       | q                                                       |
-| ch /tʃ/      | tß or tB                                                |
-| ch /k/       | k                                                       |
-| ch /ʃ/       | ß or B                                                  |
-| ck /k/       | k                                                       |
-| gh /ɡ/       | g                                                       |
-| gh /f/       | f                                                       |
-| ph /f/       | f                                                       |
-| rh /r/       | r                                                       |
-| sh /ʃ/       | ß or B                                                  |
-| ti /ʃ/       | ß or B                                                  |
-| th /θ/       | ф or H                                                  |
-| th /ð/       | δ or T                                                  |
-| wh /hw/      | _                                                       |
-| wh /w/       | w                                                       |
-| wh /h/       | h                                                       |
-| ci /ʃ/       | ß or B                                                  |
-| ci /si/      | si                                                      |
-| ci /sɪ/      | sî                                                      |
-| wr /r/       | r                                                       |
-| qw /kw/      | kw                                                      |
+| Normal English letter | Change in EEO, if any                                   |
+| :-------------------- | :------------------------------------------------------ |
+| a                     | Clarified, with additions â, ä, ǎ.                      |
+| b                     | _                                                       |
+| c                     | Converted to vowel, with additions, ĉ, č.               |
+| d                     | _                                                       |
+| e                     | Clarified, with additions, e, ê, ë.                     |
+| f                     | No longer part of ph or gh.                             |
+| g                     | No longer part of compound.                             |
+| h                     | No longer part of sh, ch, th, ph, etc.                  |
+| i                     | Clarified, with additions, i, î, ī.                     |
+| j                     | Converted to vowel.                                     |
+| k                     | No longer part of digraph ck.                           |
+| l                     | _                                                       |
+| m                     | _                                                       |
+| n                     | _                                                       |
+| o                     | Clarified, with additions, o, ô, ö.                     |
+| p                     | _                                                       |
+| q                     | Converted to -ng.                                       |
+| r                     | _                                                       |
+| s                     | No longer part of sh, no longer interchangeable with c. |
+| t                     | _                                                       |
+| u                     | Clarified, with additions, u, û, ū.                     |
+| v                     | _                                                       |
+| w                     | _                                                       |
+| x                     | Used as a placeholder EEO diphthongs.                   |
+| y                     | _                                                       |
+| z                     | _                                                       |
+| j as in casual.       | ε or E                                                  |
+
+| Normal English digraph | Change in EEO, if any |
+| :--------------------- | :-------------------- |
+| sc /s/                 | s                     |
+| sc /ʃ/                 | ß or B                |
+| ng /ŋ/                 | q                     |
+| ch /tʃ/                | tß or tB              |
+| ch /k/                 | k                     |
+| ch /ʃ/                 | ß or B                |
+| ck /k/                 | k                     |
+| gh /ɡ/                 | g                     |
+| gh /f/                 | f                     |
+| ph /f/                 | f                     |
+| rh /r/                 | r                     |
+| sh /ʃ/                 | ß or B                |
+| ti /ʃ/                 | ß or B                |
+| th /θ/                 | ф or H                |
+| th /ð/                 | δ or T                |
+| wh /hw/                | _                     |
+| wh /w/                 | w                     |
+| wh /h/                 | h                     |
+| ci /ʃ/                 | ß or B                |
+| ci /si/                | si                    |
+| ci /sɪ/                | sî                    |
+| wr /r/                 | r                     |
+| qw /kw/                | kw                    |
 
 ## Issues
 
