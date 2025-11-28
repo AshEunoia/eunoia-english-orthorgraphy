@@ -8,6 +8,8 @@
 
 I don't like the way English is currently spelt, so here I have created a version that in my opinion is an improvement. Critique will be met with consideration since I'm not an expert!
 
+Examples at the bottom!
+
 ## Principles
 
 - Consistency is king.
@@ -40,12 +42,6 @@ In no particular order:
 - Different accents will use different spellings. I don't feel this is a big concern.
 - Typing might seem like a concern, but since there are no capitals a large amount of keys have become available, so much so there are plenty to spare!
 - the dot about i may not be necessary in EEO.
-
-## Issues
-
-- Many spelling collisions. Though not exactly new to English, it would be nice if each word had only one sense.
-- English grammar is still inconsistent. This can be solved by using Lojban instead of English.
-- How can acronyms be represented?
 
 ## Vowels
 
@@ -224,13 +220,19 @@ Note: The normalised IPA is shown to demonstrate more clearly the emergent natur
 | wr /r/       | r                                                       |
 | qw /kw/      | kw                                                      |
 
+## Issues
+
+- Many spelling collisions. Though not exactly new to English, it would be nice if each word had only one sense, however this is outside the scope of EEO.
+- English grammar is still inconsistent. This can be solved by using Lojban instead of English.
+- Acronyms will require a different representation than all capitals. yûnöa ingliß ôфografê could be y.i.ô (E.E.O in normal English).
+
 ## Comparisons with English
 
 There are 22 consonant letters, 7 vowel letters, and 20 vowel diphthongs, and 42 sounds that are explicitly represented.
 
 In normal English there are just as many sounds, depending on the dialect, but they are ***not*** explicitly represented. In fact there are a significant number sounds that don't have characters at all, including 15 of the 20 vowels, such as /ə/, the most common vowel in English.
 
-The normal English alphabet has 48 letters, including capitals, but not including letters that have diacritics such as 'cliché'. EEO has 33 symbols, counting the primary vowels and diacritics separately, 15 less letters than normal English.
+The normal English alphabet has 48 letters, including capitals, but not including letters that have diacritics such as 'cliché'. EEO has 33 symbols, counting the primary vowels and diacritics separately, 15 less letters than normal English. Counting all combinations of vowels and diacritics, EEO still has 6 fewer letters than normal English.
 
 One might thing vowel diphthongs in EEO would overall increases the number of letters that need to be written, but given the change in spelling, over the course of a paragraph it is most likely diphthongs EEO has significantly fewer letters. This is primarily due to the quantity of redundant letters in English spelling.
 
