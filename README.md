@@ -73,17 +73,6 @@ They were chosen to be as intuitive as possible:
 - Diaeresis: Reminiscent of the dot of 'i'.
 - Macron: 'c' or /ə/ is a very flat sounding.
 
-### Comparisons with English
-
-Using diacritics there are 24 consonants, 7 vowel letters, and 4 diacritics.
-
-That is a total of 31 letters not including diacritics, 17 less than current English.
-
-There are 13 combinations of vowels with diacritics, and counting each as a letter gives a total of 44 letters, 4 less than current English.
-
-Diacritics overall decrease the number of letters that need to be written, though are about as fast to type as current English.
-Using diacritics is much easier to read than pairs.
-
 ### Typing
 
 There are at least 3 ways of typing the diacritics:
@@ -97,18 +86,6 @@ There are at least 3 ways of typing the diacritics:
 TODO: The diphthong version of vowels is currently broken.
 
 Note: A diphthong is 2 vowels letters combined to make 1 vowel sound.
-
-### Comparisons with English
-
-There are 22 consonant letters, 7 vowel letters, and 20 vowel diphthongs, and 42 sounds that are explicitly represented.
-
-In normal English there are just as many sounds, depending on the dialect, but they are ***not*** explicitly represented. In fact there are a significant number sounds that don't have characters at all, including 15 of the 20 vowels, such as /ə/, the most common vowel in English.
-
-The normal English alphabet has 48 letters, including capitals, but not including letters that have diacritics such as 'cliché'. EEO has 33 symbols, counting the primary vowels and diacritics separately, 15 less letters than normal English.
-
-Vowel diphthongs in EEO overall increases the number of letters that need to be written, but diacritics reduces the total number of letters.
-
-With respect to typing, diacritics may requires more keystrokes than normal English.
 
 ## Table of vowels
 
@@ -246,6 +223,16 @@ Note: The normalised IPA is shown to demonstrate more clearly the emergent natur
 | ci /sɪ/      | sî                                                      |
 | wr /r/       | r                                                       |
 | qw /kw/      | kw                                                      |
+
+## Comparisons with English
+
+There are 22 consonant letters, 7 vowel letters, and 20 vowel diphthongs, and 42 sounds that are explicitly represented.
+
+In normal English there are just as many sounds, depending on the dialect, but they are ***not*** explicitly represented. In fact there are a significant number sounds that don't have characters at all, including 15 of the 20 vowels, such as /ə/, the most common vowel in English.
+
+The normal English alphabet has 48 letters, including capitals, but not including letters that have diacritics such as 'cliché'. EEO has 33 symbols, counting the primary vowels and diacritics separately, 15 less letters than normal English.
+
+One might thing vowel diphthongs in EEO would overall increases the number of letters that need to be written, but given the change in spelling, over the course of a paragraph it is most likely diphthongs EEO has significantly fewer letters. This is primarily due to the quantity of redundant letters in English spelling.
 
 ## Examples
 
