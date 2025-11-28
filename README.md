@@ -8,12 +8,6 @@
 
 I don't like the way English is currently spelt, so here I have created a version that in my opinion is an improvement. Critique will be met with consideration since I'm not an expert!
 
-## Trivia
-
-- In EEO there are 24 consonants, and 20 vowels, for a total of 44 sounds that are explicitly represented.
-  - Currently in English there are just as many sounds, depending on the dialect, but they are ***not*** explicitly represented. In fact there are a significant number sounds that don't have characters at all, including 15 of the 20 vowels, such as /ə/, the most common vowel in English.
-- The current English alphabet has 48 letters, including capitals, but not including letters that have diacritics such as in 'cliché'. EEO has 31 letters.
-
 ## Principles
 
 - Consistency is king.
@@ -106,11 +100,15 @@ Note: A diphthong is 2 vowels letters combined to make 1 vowel sound.
 
 ### Comparisons with English
 
-There are 24 consonants, 8 vowel letters, and 20 vowel pairs.
+There are 22 consonant letters, 7 vowel letters, and 20 vowel diphthongs, and 42 sounds that are explicitly represented.
 
-That is a total of 32 letters, 16 less letters than current English.
+In normal English there are just as many sounds, depending on the dialect, but they are ***not*** explicitly represented. In fact there are a significant number sounds that don't have characters at all, including 15 of the 20 vowels, such as /ə/, the most common vowel in English.
 
-Vowel pairing overall increases the number of letters that need to be written.
+The normal English alphabet has 48 letters, including capitals, but not including letters that have diacritics such as 'cliché'. EEO has 33 symbols, counting the primary vowels and diacritics separately, 15 less letters than normal English.
+
+Vowel diphthongs in EEO overall increases the number of letters that need to be written, but diacritics reduces the total number of letters.
+
+With respect to typing, diacritics may requires more keystrokes than normal English.
 
 ## Table of vowels
 
@@ -186,8 +184,8 @@ Note: The normalised IPA is shown to demonstrate more clearly the emergent natur
 
 ### Notes
 
-- When sounding a consonant by itself, it is spoken with <c> after the consanant, such as <fc> or <qc>.
-- ß instead of ʃ because ʃ can be more easily confused with s.
+- When sounding a consonant by itself, it is spoken with 'c' after the consonant, such as 'fc' or 'qc'.
+- 'ß' instead of 'ʃ' because 'ʃ' can be more easily confused with 's'.
 
 ## Changes to each letter
 
