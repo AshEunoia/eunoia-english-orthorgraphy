@@ -157,7 +157,7 @@ Note: The normalised IPA is shown to demonstrate more clearly the emergent natur
 | EEO                           | English   | IPA | English example |
 | :---------------------------- | :-------- | :-- | :-------------- |
 | **Major change from English** |           |     |                 |
-| ε or E                        |           | ʒ   | casual          |
+| ε or E                        | _         | ʒ   | casual          |
 | q                             | -ng       | ŋ   | sing            |
 | ф or H                        | th        | θ   | earth           |
 | δ or T                        | th        | ð   | they            |
@@ -255,8 +255,10 @@ All English letters:
 
 - **English:**  
 The quick brown fox jumps over the lazy dog.
-- **EEO:**  
+- **EEO diacritic:**  
 δc kwik brǎn foks dεcmps čvc δc lëzî dog.
+- **EEO diphthong:**  
+Tc kwik braun foks dEcmps cuvc Tc leizii dog.
 
 Quote from 'The Mikado' by W.S. Gilbert:
 
@@ -265,36 +267,41 @@ To sit in solemn silence in a dull, dark dock,
 In a pestilential prison, with a life-long lock,  
 Awaiting the sensation of a short, sharp shock,  
 From a cheap and chippy chopper on a big black block!
-- **EEO:**  
+- **EEO diacritic:**  
 tû sit in solcm sälcns in a dcl, dâk dok,  
 in a pestilenßcl prizcn, wiδ a läf-loq lok,  
-awëtiq δc sensäßcn ov a ßôt, ßâp ßok,  
+awëtiq δc sensëßcn ov a ßôt, ßâp ßok,  
 from a tßîp and tßipî tßopc on a big blak blok!
+- **EEO diphthong:**  
+tuu sit in solcm sailcns in a dcl, daak dok,  
+in a pestilenBcl prizcn, wiT a laif-loq lok,  
+aweitiq Tc senseiBcn ov a Boot, Baap Bok,  
+from a tBiip and tBipii tBopc on a big blak blok!
 
 ### Rhymes
 
-| English                                            | EEO  |
-| :------------------------------------------------- | :--- |
-| **English look like they should rhyme but don't.** |      |
-| through                                            | фrû  |
-| though                                             | δč   |
-| thorough                                           | фcrc |
-| trough                                             | trof |
-| rough                                              | rcf  |
-| plough                                             | plǎ  |
-| **English look like they shouldn't rhyme but do.** |      |
-| through                                            | фrû  |
-| threw                                              | фrû  |
-| to                                                 | tû   |
-| too                                                | tû   |
-| two                                                | tû   |
-| queue                                              | kyû  |
-| flu                                                | flû  |
-| you                                                | yû   |
-| ewe                                                | yû   |
-| shoe                                               | ßû   |
-| adieu                                              | adyû |
-| view                                               | vyû  |
+| English                  | EEO diacritic | EEO diphthong |
+| :----------------------- | :------------ | :------------ |
+| **Misleading negative.** |               |               |
+| through                  | фrû           | Hruu          |
+| though                   | δč            | Tcu           |
+| thorough                 | фcrc          | Hcrc          |
+| trough                   | trof          | trof          |
+| rough                    | rcf           | rcf           |
+| plough                   | plǎ           | plau          |
+| **Misleading positive.** |               |               |
+| through                  | фrû           | Hruu          |
+| threw                    | фrû           | Hruu          |
+| to                       | tû            | tuu           |
+| too                      | tû            | tuu           |
+| two                      | tû            | tuu           |
+| queue                    | kyû           | kyuu          |
+| flu                      | flû           | fluu          |
+| you                      | yû            | yuu           |
+| ewe                      | yû            | yuu           |
+| shoe                     | ßû            | Buu           |
+| adieu                    | adyû          | adyuu         |
+| view                     | vyû           | vyuu          |
 
 ### Excerpt
 
@@ -304,14 +311,22 @@ Excerpt from <https://en.wikipedia.org/wiki/Constructed_language>.
 
 A constructed language (sometimes called a conlang) is a language whose phonology, grammar, and vocabulary, instead of having developed naturally, are consciously devised. Constructed languages may also be referred to as artificial languages, planned languages or invented languages and in some cases, fictional languages. Planned languages are languages that have been purposefully designed. They are the result of deliberate controlling intervention, thus of a form of language planning.
 
-**EEO:**
+**EEO diacritic:**
 
 a konstrcktid laqgwidε (scmtämz kôld a konlaq) iz a laqgwidε hûz fcnolcdεî, gramc, and včkabûlerî, insted ov haviq dcvelcpt natûrclî, â konßcslî dcvîzd. konstrcktid laqgwidεiz më ôlsč bî rcfûd tû az âtifißcl laqgwidεiz, pland laqgwidεiz ô inventid laqgwidεiz and in scm kësiz, fikßcncl laqgwidεiz. pland laqgwidεiz â laqgwidεiz δat hav bîn pĉpcsfulî dczänd. δë â δc rczclt ov dclibcrct kontrčliq intcvenßcn, δcs ov a fôm ov laqgwidε planiq.
+
+**EEO diphthong:**
+
+a konstrcktid laqgwidE (scmtaimz koold a konlaq) iz a laqgwidE huuz fcnolcdEii, gramc, and vcukabuulerii, insted ov haviq dcvelcpt natuurclii, aa konBcslii dcviiîzd. konstrcktid laqgwidEiz mei oolscu bii rcfuud tuu az aatifiBcl laqgwidEiz, pland laqgwidEiz oo inventid laqgwidEiz and in scm keisiz, fikBcncl laqgwidEiz. pland laqgwidEiz â laqgwidEiz Tat hav biin pccpcsfulii dczaind. Tei aa Tc rczclt ov dclibcrct kontrculiq intcvenBcn, Tcs ov a foom ov laqgwidE planiq.
 
 **English:**
 
 There are many possible reasons to create a constructed language, such as to ease human communication (see international auxiliary language and code); to give fiction or an associated constructed setting an added layer of realism; for experimentation in the fields of linguistics, cognitive science, and machine learning; for artistic creation; and for language games. Some people make constructed languages simply because they like doing it.
 
-**EEO:**
+**EEO diacritic:**
 
-δê â menî posibcl rîzcnz tû krîët a konstrcktid laqgwidε, sctß az tû îz hûmcn komûnikëßcn (sî intcnaßcncl ogzilîerî laqgwidε and kčd); tû giv fikßcn ô an asčßîëtid konstrcktid setiq an adid lëc ov rîclizcm; fô ekspĉrimentëßcn in δc fîcldz ov liqgwistiks, kognitiv säcns, and maßîn lĉniq; fô âtistik krîëßcn; and fô laqgwidε gëmz. scm pîpcl mëk konstrcktid laqgwidεiz simplî bîkcz δë lîk dûiq it.
+δê â menî posibcl rîzcnz tû krîët a konstrcktid laqgwidε, sctß az tû îz hûmcn komûnikëßcn (sî intcnaßcncl ogzilîerî laqgwidε and kčd); tû giv fikßcn ô an asčßîëtid konstrcktid setiq an adid lëc ov rîclizcm; fô ekspĉrimentëßcn in δc fîcldz ov liqgwistiks, kognitiv säcns, and maßîn lĉniq; fô âtistik krîëßcn; and fô laqgwidε gëmz. scm pîpcl mëk konstrcktid laqgwidεiz simplî bckcz δë läk dûiq it.
+
+**EEO diphthong:**
+
+Tee aa menii posibcl riizcnz tuu kriieit a konstrcktid laqgwidE, sctB az tuu iiz huumcn komuunikeiBcn (sii intcnaBcncl ogziliierii laqgwidE and kcud); tuu giv fikBcn oo an ascußiieitid konstrcktid setiq an adid leic ov riiclizcm; foo ekspccrimenteiBcn in Tc fiicldz ov liqgwistiks, kognitiv saicns, and maBiin lccniq; foo aatistik kriieiBcn; and foo laqgwidE geimz. scm piipcl meik konstrcktid laqgwidEiz simplii bckcz Tei laik duuiq it.
