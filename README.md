@@ -167,7 +167,6 @@ Note: The normalised IPA is shown to demonstrate more clearly the emergent natur
 | **Minor change from English** |           |     |                 |
 | f                             | f, ph, gh | f   | food            |
 | g                             | g         | g   | grin            |
-| j                             | j, g      | ʤ   | joke            |
 | k                             | k, c, q   | k   | walk            |
 | s                             | s, c      | s   | stop            |
 | z                             | z, s      | z   | noise           |
@@ -257,7 +256,7 @@ All English letters:
 - **English:**  
 The quick brown fox jumps over the lazy dog.
 - **EEO:**  
-δc kwik brǎn foks djcmps čvc δc lëzî dog.
+δc kwik brǎn foks dεcmps čvc δc lëzî dog.
 
 Quote from 'The Mikado' by W.S. Gilbert:
 
@@ -307,7 +306,7 @@ A constructed language (sometimes called a conlang) is a language whose phonolog
 
 **EEO:**
 
-a konstrcktid laqgwidj (scmtämz kôld a konlaq) iz a laqgwidj hûz fcnolcdjî, gramc, and včkabûlerî, insted ov haviq dcvelcpt natûrclî, â konßcslî dcvîzd. konstrcktid laqgwidjiz më ôlsč bî rcfûd tû az âtifißcl laqgwidjiz, pland laqgwidjiz ô inventid laqgwidjiz and in scm kësiz, fikßcncl laqgwidjiz. pland laqgwidjiz â laqgwidjiz δat hav bîn pĉpcsfulî dczänd. δë â δc rczclt ov dclibcrct kontrčliq intcvenßcn, δcs ov a fôm ov laqgwidj planiq.
+a konstrcktid laqgwidε (scmtämz kôld a konlaq) iz a laqgwidε hûz fcnolcdεî, gramc, and včkabûlerî, insted ov haviq dcvelcpt natûrclî, â konßcslî dcvîzd. konstrcktid laqgwidεiz më ôlsč bî rcfûd tû az âtifißcl laqgwidεiz, pland laqgwidεiz ô inventid laqgwidεiz and in scm kësiz, fikßcncl laqgwidεiz. pland laqgwidεiz â laqgwidεiz δat hav bîn pĉpcsfulî dczänd. δë â δc rczclt ov dclibcrct kontrčliq intcvenßcn, δcs ov a fôm ov laqgwidε planiq.
 
 **English:**
 
@@ -315,4 +314,4 @@ There are many possible reasons to create a constructed language, such as to eas
 
 **EEO:**
 
-δê â menî posibcl rîzcnz tû krîët a konstrcktid laqgwidj, sctß az tû îz hûmcn komûnikëßcn (sî intcnaßcncl ogzilîerî laqgwidj and kčd); tû giv fikßcn ô an asčßîëtid konstrcktid setiq an adid lëc ov rîclizcm; fô ekspĉrimentëßcn in δc fîcldz ov liqgwistiks, kognitiv säcns, and maßîn lĉniq; fô âtistik krîëßcn; and fô laqgwidj gëmz. scm pîpcl mëk konstrcktid laqgwidjiz simplî bîkcz δë lîk dûiq it.
+δê â menî posibcl rîzcnz tû krîët a konstrcktid laqgwidε, sctß az tû îz hûmcn komûnikëßcn (sî intcnaßcncl ogzilîerî laqgwidε and kčd); tû giv fikßcn ô an asčßîëtid konstrcktid setiq an adid lëc ov rîclizcm; fô ekspĉrimentëßcn in δc fîcldz ov liqgwistiks, kognitiv säcns, and maßîn lĉniq; fô âtistik krîëßcn; and fô laqgwidε gëmz. scm pîpcl mëk konstrcktid laqgwidεiz simplî bîkcz δë lîk dûiq it.
