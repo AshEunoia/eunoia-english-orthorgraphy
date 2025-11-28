@@ -13,7 +13,6 @@ I don't like the way English is currently spelt, so here I have created a versio
 - In EEO there are 24 consonants, and 20 vowels, for a total of 44 sounds that are explicitly represented.
   - Currently in English there are just as many sounds, depending on the dialect, but they are ***not*** explicitly represented. In fact there are a significant number sounds that don't have characters at all, including 15 of the 20 vowels, such as /ə/, the most common vowel in English.
 - The current English alphabet has 48 letters, including capitals, but not including letters that have diacritics such as in 'cliché'. EEO has 31 letters.
-- There are 2 ways of representing all the vowels in Rubia, pairs and diacritics.
 
 ## Principles
 
