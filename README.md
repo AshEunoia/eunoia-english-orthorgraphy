@@ -329,4 +329,4 @@ There are many possible reasons to create a constructed language, such as to eas
 
 **EEO diphthong:**
 
-Tee aa menii posibcl riizcnz tuu kriieit a konstrcktid laqgwidE, sctB az tuu iiz huumcn komuunikeiBcn (sii intcnaBcncl ogziliierii laqgwidE and kcud); tuu giv fikBcn oo an ascußiieitid konstrcktid setiq an adid leic ov riiclizcm; foo ekspccrimenteiBcn in Tc fiicldz ov liqgwistiks, kognitiv saicns, and maBiin lccniq; foo aatistik kriieiBcn; and foo laqgwidE geimz. scm piipcl meik konstrcktid laqgwidEiz simplii bckcz Tei laik duuiq it.
+Tee aa menii posibcl riizcnz tuu kriieit a konstrcktid laqgwidE, sctB az tuu iiz huumcn komuunikeiBcn (sii intcnaBcncl ogziliierii laqgwidE and kcud); tuu giv fikBcn oo an ascuBiieitid konstrcktid setiq an adid leic ov riiclizcm; foo ekspccrimenteiBcn in Tc fiicldz ov liqgwistiks, kognitiv saicns, and maBiin lccniq; foo aatistik kriieiBcn; and foo laqgwidE geimz. scm piipcl meik konstrcktid laqgwidEiz simplii bckcz Tei laik duuiq it.
