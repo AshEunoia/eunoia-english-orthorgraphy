@@ -313,11 +313,11 @@ A constructed language (sometimes called a conlang) is a language whose phonolog
 
 **EEO diacritic:**
 
-a konstrcktid laqgwidε (scmtämz kôld a konlaq) iz a laqgwidε hûz fcnolcdεî, gramc, and včkabûlerî, insted ov haviq dcvelcpt natûrclî, â konßcslî dcvîzd. konstrcktid laqgwidεiz më ôlsč bî rcfûd tû az âtifißcl laqgwidεiz, pland laqgwidεiz ô inventid laqgwidεiz and in scm kësiz, fikßcncl laqgwidεiz. pland laqgwidεiz â laqgwidεiz δat hav bîn pĉpcsfulî dczänd. δë â δc rczclt ov dclibcrct kontrčliq intcvenßcn, δcs ov a fôm ov laqgwidε planiq.
+a konstrcktid laqgwidε (scmtämz kôld a konlaq) iz a laqgwidε hûz fcnolcdεî, gramc, and včkabûlerî, insted ov haviq dcvelcpt natûrclî, â konßcslî dcväzd. konstrcktid laqgwidεiz më ôlsč bî rcfûd tû az âtifißcl laqgwidεiz, pland laqgwidεiz ô inventid laqgwidεiz and in scm kësiz, fikßcncl laqgwidεiz. pland laqgwidεiz â laqgwidεiz δat hav bîn pĉpcsfulî dczänd. δë â δc rczclt ov dclibcrct kontrčliq intcvenßcn, δcs ov a fôm ov laqgwidε planiq.
 
 **EEO diphthong:**
 
-a konstrcktid laqgwidE (scmtaimz koold a konlaq) iz a laqgwidE huuz fcnolcdEii, gramc, and vcukabuulerii, insted ov haviq dcvelcpt natuurclii, aa konBcslii dcviiîzd. konstrcktid laqgwidEiz mei oolscu bii rcfuud tuu az aatifiBcl laqgwidEiz, pland laqgwidEiz oo inventid laqgwidEiz and in scm keisiz, fikBcncl laqgwidEiz. pland laqgwidEiz â laqgwidEiz Tat hav biin pccpcsfulii dczaind. Tei aa Tc rczclt ov dclibcrct kontrculiq intcvenBcn, Tcs ov a foom ov laqgwidE planiq.
+a konstrcktid laqgwidE (scmtaimz koold a konlaq) iz a laqgwidE huuz fcnolcdEii, gramc, and vcukabuulerii, insted ov haviq dcvelcpt natuurclii, aa konBcslii dcvaizd. konstrcktid laqgwidEiz mei oolscu bii rcfuud tuu az aatifiBcl laqgwidEiz, pland laqgwidEiz oo inventid laqgwidEiz and in scm keisiz, fikBcncl laqgwidEiz. pland laqgwidEiz aa laqgwidEiz Tat hav biin pccpcsfulii dczaind. Tei aa Tc rczclt ov dclibcrct kontrculiq intcvenBcn, Tcs ov a foom ov laqgwidE planiq.
 
 **English:**
 
