@@ -308,3 +308,11 @@ A constructed language (sometimes called a conlang) is a language whose phonolog
 **EEO:**
 
 a konstrcktid laqgwidj (scmtämz kôld a konlaq) iz a laqgwidj hûz fcnolcdjî, gramc, and včkabûlerî, insted ov haviq dcvelcpt natûrclî, â konßcslî dcvîzd. konstrcktid laqgwidjiz më ôlsč bî rcfûd tû az âtifißcl laqgwidjiz, pland laqgwidjiz ô inventid laqgwidjiz and in scm kësiz, fikßcncl laqgwidjiz. pland laqgwidjiz â laqgwidjiz δat hav bîn pĉpcsfulî dczänd. δë â δc rczclt ov dclibcrct kontrčliq intcvenßcn, δcs ov a fôm ov laqgwidj planiq.
+
+**English:**
+
+There are many possible reasons to create a constructed language, such as to ease human communication (see international auxiliary language and code); to give fiction or an associated constructed setting an added layer of realism; for experimentation in the fields of linguistics, cognitive science, and machine learning; for artistic creation; and for language games. Some people make constructed languages simply because they like doing it.
+
+**EEO:**
+
+δê â menî posibcl rîzcnz tû krîët a konstrcktid laqgwidj, sctß az tû îz hûmcn komûnikëßcn (sî intcnaßcncl ogzilîerî laqgwidj and kčd); tû giv fikßcn ô an asčßîëtid konstrcktid setiq an adid lëc ov rîclizcm; fô ekspĉrimentëßcn in δc fîcldz ov liqgwistiks, kognitiv säcns, and maßîn lĉniq; fô âtistik krîëßcn; and fô laqgwidj gëmz. scm pîpcl mëk konstrcktid laqgwidjiz simplî bîkcz δë lîk dûiq it.
